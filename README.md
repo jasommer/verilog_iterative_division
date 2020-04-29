@@ -17,11 +17,11 @@ With each step, a variable is increased by the amount of the divisor. This is re
                                28 | 7
 
                                => 28/4 = 7
-                 
-                The number of clock cycles needed to calculate the quotient is therefore equal to the value of the quotient itself.
-                This is impractical when calculating with big numbers.
-                To speed up the calculation, this alogrithm does not count linear (1,2,3,4,5) but exponential (1,2,4,8,16).
-                   E.g 24 divided by 4:
+                
+The number of clock cycles needed to calculate the quotient is therefore equal to the value of the quotient itself.
+This is impractical when calculating with big numbers.
+To speed up the calculation, this alogrithm does not count linear (1,2,3,4,5) but exponential (1,2,4,8,16).
+E.g 24 divided by 4:
                    
                    Interim result | counter exponential (steps taken)
                                 4 | 1
