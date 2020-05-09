@@ -34,13 +34,13 @@ E.g 24 divided by 4:
                                
 
 ## Implementation statistics
-###32-Bit division using the iterative division method
+<br><b>32-Bit division using the iterative division method</b>
 <br>Maximum Frequency:                         130 MHz
 <br>Number of occupied Slices:                 110
 <br>Number of Slice Registers:                 227
 <br>Number of Slice LUTs:                      352
 
-###32-Bit division using a single-cycle divider
+<br><b>32-Bit division using a single-cycle divider</b>
 <br>Maximum Frequency:                         10 MHz
 <br>Number of occupied Slices:                 469
 <br>Number of Slice Registers:                 192
