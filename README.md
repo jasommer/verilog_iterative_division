@@ -33,7 +33,7 @@ E.g 24 divided by 4:
                                => 28/4 = 7 (5 iterations necessary)
                                
 
-## Implementation statistics
+## Implementation statistics (on a Spartan 6 FPGA)
 <br><b>32-Bit division using the iterative division method</b>
 <br>Maximum Frequency:                         130 MHz
 <br>Number of occupied Slices:                 110
